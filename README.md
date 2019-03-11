@@ -1,6 +1,6 @@
 ## Quick Start
 
-# Run a mongod server locally
+### Run a mongod server locally
 
 ```bash
 # Install dependencies for server
